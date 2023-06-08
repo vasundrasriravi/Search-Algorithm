@@ -112,7 +112,7 @@ else:
 
 
 ```
-## Sample Input and Output
+## Sample Input and Output:
 ![Screenshot 2023-05-30 180929](https://github.com/vasundrasriravi/Search-Algorithm/assets/119393983/66ecf719-fbc2-41b3-8a1e-37314f1c805d)
 
 
